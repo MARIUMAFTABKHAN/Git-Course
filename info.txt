@@ -3,3 +3,8 @@ info student
 
 marium 
 aftab 
+
+fruits 
+apple
+mango
+grapes
