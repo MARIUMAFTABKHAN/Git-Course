@@ -7,6 +7,3 @@ aftab
 fruits 
 apple
 mango
-grapes
-orange
-marium khan
